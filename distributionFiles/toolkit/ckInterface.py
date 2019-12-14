@@ -26,7 +26,7 @@ def collectMetrics(ckDir, repoPath):
     #TODO- How to import this process CSV into a pandas dataframe?
     metricsData = pd.read_csv(writePath, names=featureHeader)
     
-    return metricsData
+    return metricsData.rename(columns={"file":"entity"})
     
     
 def dropUnusedMetrics(metricsTable):
@@ -50,7 +50,12 @@ def refineRow(row):
 
     for i in range(3, len(featureHeader)):
         row[i]=int(row[i])
-        
+    
+    rep = os.path.join(os.path.basename(os.path.dirname(row[0])), os.path.basename(row[0]))
+    #rep = os.path.basename(row[0])
+    row[0]=rep
+    
+    print("filename",rep)     
      
    
     return row
@@ -74,7 +79,7 @@ def processRawCSV(readPath, writePath):
             
             nRows = countCSVRows(readPath)
             
-            pdb.set_trace()
+            #pdb.set_trace()
             
             #Copy the headers
             row = reader.next()
@@ -143,23 +148,25 @@ def codeMetricsTable(nameLabel, dataFrame, sourceFilesDirectory, storageConnecti
 	metricsData = collectMetrics(os.path.join(os.getcwd(),"..","ck"), sourceFilesDirectory)
 
 	#if not metricsData:
-    #	return None
+		#return None
 
 	#metricsData = pd.concat(metricsData)
 
-	#metricsData = dropUnusedMetrics(metricsData)
+	metricsData = dropUnusedMetrics(metricsData)
 	#metricsDataFrame = metricsData.rename(columns={"file":"entity"})
+	print("metricsData - before:",metricsData)
 
 	#metricsData = dataUtilities.formatEntityNames(metricsData, sourceFilesDirectory)
 
 	storage.writeTable(tableName, storageConnection, metricsData)
 
+	print("metricsData - after:",metricsData)
 	return metricsData
 
 
 
 
-usedFeatureNames = ["entity","class","type","cbo","wmc",	"dit",	"rfc","lcom","totalMethods","staticMethods","publicMethods","privateMethods","protectedMethods",
+usedFeatureNames = ["entity","cbo","wmc",	"dit",	"rfc","lcom","totalMethods","staticMethods","publicMethods","privateMethods","protectedMethods",
                  "defaultMethods","abstractMethods", "finalMethods","synchronizedMethods","totalFields","staticFields","publicFields","privateFields","protectedFields",
                  "defaultFields","finalFields","synchronizedFields","nosi","loc","returnQty","loopQty","comparisonsQty","tryCatchQty","parenthesizedExpsQty","stringLiteralsQty",
                  "numbersQty","assignmentsQty","mathOperationsQty","variablesQty","maxNestedBlocks","anonymousClassesQty","subClassesQty","lambdasQty","uniqueWordsQty","modifiers"]

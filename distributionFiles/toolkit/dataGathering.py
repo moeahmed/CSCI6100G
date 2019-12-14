@@ -81,10 +81,11 @@ def gatherData(studyDirectory, repositoryURL, sourceFilesDirectory, filesToInspe
 		import staticMetrics as static
 		codeMetrics = static.gatherStaticMetrics(language, nextTime, changeMetrics, sourceFilesDirectory, storageConnection)
 
-	changeMetrics['entity'] = changeMetrics['entity'].apply(lambda x: x.replace('/','_'))
+	#changeMetrics['entity'] = changeMetrics['entity'].apply(lambda x: x.replace('/','_'))
 	changeMetrics['netchurn'] = changeMetrics['added'] - changeMetrics['deleted']
 	changeMetrics.drop('total-revs', axis=1, inplace=True)
-
+	print("changeMetrics:",changeMetrics)
+	print("codeMetrics:",codeMetrics)
 
 	allData = pd.DataFrame()
     
@@ -92,6 +93,6 @@ def gatherData(studyDirectory, repositoryURL, sourceFilesDirectory, filesToInspe
         
 		allData = changeMetrics.merge(codeMetrics, on='entity')
         
-	pdb.set_trace()        
+	#pdb.set_trace()        
 
 	return allData

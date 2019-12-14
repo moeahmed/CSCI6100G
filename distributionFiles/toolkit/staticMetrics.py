@@ -3,6 +3,7 @@ import radonInterface as radon
 import indentationInterface as indentation
 import ckInterface as ck
 import pdb
+import dataUtilities
 
 
 def gatherStaticMetrics(language, time, changeMetrics, sourceFilesDirectory, storageConnection):
@@ -19,6 +20,7 @@ def gatherStaticMetrics(language, time, changeMetrics, sourceFilesDirectory, sto
         metrics = ck.codeMetricsTable(
             time, changeMetrics, sourceFilesDirectory, storageConnection)
         languageSpecific = metrics.rename(columns={"file":"entity"})
+        languageSpecific = dataUtilities.formatEntityNames(languageSpecific, sourceFilesDirectory)
 
     if 'indent' in language:
         languageAgnostic = indentation.indentMetricsTable(

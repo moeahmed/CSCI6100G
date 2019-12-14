@@ -91,5 +91,7 @@ def gatherData(studyDirectory, repositoryURL, sourceFilesDirectory, filesToInspe
 	if language is not None and codeMetrics is not None:
         
 		allData = changeMetrics.merge(codeMetrics, on='entity')
+        
+	pdb.set_trace()        
 
 	return allData

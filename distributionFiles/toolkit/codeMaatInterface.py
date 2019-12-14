@@ -13,7 +13,6 @@ def runAnalysisList(logFile,logFileType,analysisList):
 	results = [] 
 	for analysisType in analysisList:   
 		mys = runAnalysis(logFile,logFileType,analysisType)
-		pdb.set_trace()     
 		results.append(StringIO(mys))
 	return results
 

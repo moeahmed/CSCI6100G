@@ -1,0 +1,629 @@
+file,class,method,variable,usage
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,setPrecio/1[java.lang.String],precio,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,setMarca/1[java.lang.String],existencia,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,setMarca/1[java.lang.String],marca,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,getNombre/0,nombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,setNombre/1[java.lang.String],nombre,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,setExistencia/1[java.lang.String],existencia,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,getMarca/0,marca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,getExistencia/0,existencia,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,getNext/0,next,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,ArticulosDP/1[java.lang.String],marca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,ArticulosDP/1[java.lang.String],existencia,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,ArticulosDP/1[java.lang.String],clave,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,ArticulosDP/1[java.lang.String],precio,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,ArticulosDP/1[java.lang.String],nombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,getClave/0,clave,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,setNext/1[ArticulosDP],next,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,setClave/1[java.lang.String],clave,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,toString/0,marca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,toString/0,existencia,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,toString/0,clave,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,toString/0,precio,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,toString/0,nombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,ArticulosDP/0,marca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,ArticulosDP/0,existencia,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,ArticulosDP/0,clave,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,ArticulosDP/0,precio,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,ArticulosDP/0,nombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosDP.java,ArticulosDP,getPrecio/0,precio,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,print/1[java.lang.String],tfNombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,print/1[java.lang.String],taDatos,5
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,clrFields/0,tfPrecio,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,clrFields/0,tfNombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,clrFields/0,tfMarca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,clrFields/0,tfExistencia,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,clrFields/0,tfId,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,p1,23
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,p2,5
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,bConsultarNombre,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,taDatos,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,bCapturarInicio,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,nombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,existencia,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,marca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,precio,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,datos,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,bBorrar,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,tfExistencia,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,bModificar,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,bCancelar,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,tfId,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,clave,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,resultado,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,bCapturar,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,tfPrecio,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,tfMarca,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,bActualizar,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,bConsultarClave,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,bConsultar,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,tfNombre,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,PersonaIUG/0,bSalir,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,actionPerformed/1[java.awt.event.ActionEvent],lista,6
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,actionPerformed/1[java.awt.event.ActionEvent],bCapturar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,actionPerformed/1[java.awt.event.ActionEvent],resultado,25
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,actionPerformed/1[java.awt.event.ActionEvent],bActualizar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,actionPerformed/1[java.awt.event.ActionEvent],bConsultarClave,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,actionPerformed/1[java.awt.event.ActionEvent],bConsultarNombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,actionPerformed/1[java.awt.event.ActionEvent],bCapturarInicio,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,actionPerformed/1[java.awt.event.ActionEvent],bConsultar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,actionPerformed/1[java.awt.event.ActionEvent],nombre,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,actionPerformed/1[java.awt.event.ActionEvent],existencia,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,actionPerformed/1[java.awt.event.ActionEvent],datos,9
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,actionPerformed/1[java.awt.event.ActionEvent],bBorrar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,actionPerformed/1[java.awt.event.ActionEvent],tfNombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,actionPerformed/1[java.awt.event.ActionEvent],bModificar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,actionPerformed/1[java.awt.event.ActionEvent],tfExistencia,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,actionPerformed/1[java.awt.event.ActionEvent],bCancelar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,actionPerformed/1[java.awt.event.ActionEvent],bSalir,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,obtenerDatos/0,existencia,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,obtenerDatos/0,marca,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,obtenerDatos/0,clave,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,obtenerDatos/0,precio,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,obtenerDatos/0,datos,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,obtenerDatos/0,tfPrecio,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,obtenerDatos/0,tfNombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,obtenerDatos/0,tfMarca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,obtenerDatos/0,tfExistencia,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,obtenerDatos/0,tfId,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,obtenerDatos/0,nombre,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,consulta/1[java.lang.String],lista,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,consulta/1[java.lang.String],clave,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,consulta/1[java.lang.String],resultado,7
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,consulta/1[java.lang.String],tfNombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,consulta/1[java.lang.String],tfId,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,consulta/1[java.lang.String],nombre,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,habilitarBotones/1[boolean],bCapturar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,habilitarBotones/1[boolean],bBorrar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,habilitarBotones/1[boolean],bActualizar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,habilitarBotones/1[boolean],bModificar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,habilitarBotones/1[boolean],bCancelar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,habilitarBotones/1[boolean],bConsultarNombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,habilitarBotones/1[boolean],bCapturarInicio,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaIUG.java,PersonaIUG,habilitarBotones/1[boolean],bConsultar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,"venderArticulos/2[int,int]",actual,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,"venderArticulos/2[int,int]",listaArticulos,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,"venderArticulos/2[int,int]",anterior,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,ArticulosADLL/0,archivoEntrada,8
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,crearNodo/1[java.lang.String],listaArticulos,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,vacia/0,listaArticulos,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,crearNodoVentas/1[java.lang.String],listaVentas,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,datosListaArchivo/1[java.lang.String],listaArticulos,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,datosListaArchivo/1[java.lang.String],listaVentas,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,consultarArchivo/1[java.lang.String],archivoEntrada,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,borrarNodo/1[java.lang.String],listaArticulos,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,borrarNodo/1[java.lang.String],anterior,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,modificarNodo/1[java.lang.String],actual,5
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,modificarNodo/1[java.lang.String],listaArticulos,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,modificarNodo/1[java.lang.String],anterior,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,consultarClave/1[java.lang.String],actual,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,consultarClave/1[java.lang.String],listaArticulos,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,consultarClave/1[java.lang.String],anterior,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,consultarNodos/1[java.lang.String],listaArticulos,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,consultarNodos/1[java.lang.String],listaVentas,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,consultarMarca/1[java.lang.String],actual,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,consultarMarca/1[java.lang.String],listaArticulos,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,consultarMarca/1[java.lang.String],anterior,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosADLL.java,ArticulosADLL,"datosListaArchivoAD/2[java.lang.String,java.util.LinkedList]",archivoSalida,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,setPrecio/1[java.lang.String],precio,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,setMarca/1[java.lang.String],existencia,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,setMarca/1[java.lang.String],marca,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,getNombre/0,nombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,setId/1[java.lang.String],id,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,getId/0,id,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,setNombre/1[java.lang.String],nombre,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,PersonaDP/1[java.lang.String],existencia,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,PersonaDP/1[java.lang.String],marca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,PersonaDP/1[java.lang.String],precio,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,PersonaDP/1[java.lang.String],id,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,PersonaDP/1[java.lang.String],nombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,setExistencia/1[java.lang.String],existencia,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,getMarca/0,marca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,getExistencia/0,existencia,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,getNext/0,next,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,toString/0,existencia,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,toString/0,marca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,toString/0,precio,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,toString/0,id,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,toString/0,nombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,setNext/1[PersonaDP],next,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,PersonaDP/0,existencia,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,PersonaDP/0,marca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,PersonaDP/0,precio,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,PersonaDP/0,id,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,PersonaDP/0,nombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaDP.java,PersonaDP,getPrecio/0,precio,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,clrFields/0,tfPrecio,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,clrFields/0,tfClave,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,clrFields/0,tfNombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,clrFields/0,tfMarca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,clrFields/0,tfExistencia,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,habilitarCampos/1[boolean],tfPrecio,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,habilitarCampos/1[boolean],tfClave,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,habilitarCampos/1[boolean],tfMarca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,habilitarCampos/1[boolean],tfNombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,habilitarCampos/1[boolean],tfExistencia,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,p1,26
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,p2,5
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,bConsultarVentas,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,taDatos,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,nombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,existencia,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,marca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,precio,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,datos,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,bBorrar,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,tfExistencia,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,bModificar,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,bCancelar,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,bRealizarTransaccion,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,clave,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,resultado,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,bCapturar,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,tfPrecio,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,tfMarca,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,bConsultarClave,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,bConsultarArchivoVentas,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,bConsultar,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,bConsultarMarca,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,bVender,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,tfClave,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,tfNombre,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,bConsultarArchivo,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,ArticulosIUG/0,bSalir,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,habilitarBotones/1[boolean],bCapturar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,habilitarBotones/1[boolean],bConsultarClave,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,habilitarBotones/1[boolean],bConsultarVentas,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,habilitarBotones/1[boolean],bConsultarArchivoVentas,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,habilitarBotones/1[boolean],bConsultar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,habilitarBotones/1[boolean],bConsultarMarca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,habilitarBotones/1[boolean],bVender,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,habilitarBotones/1[boolean],bBorrar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,habilitarBotones/1[boolean],tfClave,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,habilitarBotones/1[boolean],bModificar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,habilitarBotones/1[boolean],bCancelar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,habilitarBotones/1[boolean],bConsultarArchivo,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,habilitarBotones/1[boolean],bRealizarTransaccion,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,consultar/1[java.lang.String],lista,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,consultar/1[java.lang.String],marca,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,consultar/1[java.lang.String],clave,6
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,consultar/1[java.lang.String],resultado,10
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,consultar/1[java.lang.String],tfMarca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,consultar/1[java.lang.String],tfClave,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,mostrar/1[java.lang.String],marca,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,mostrar/1[java.lang.String],existencia,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,mostrar/1[java.lang.String],clave,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,mostrar/1[java.lang.String],precio,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,mostrar/1[java.lang.String],tfPrecio,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,mostrar/1[java.lang.String],tfClave,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,mostrar/1[java.lang.String],tfNombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,mostrar/1[java.lang.String],tfMarca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,mostrar/1[java.lang.String],tfExistencia,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,mostrar/1[java.lang.String],nombre,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,actionPerformed/1[java.awt.event.ActionEvent],lista,7
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,actionPerformed/1[java.awt.event.ActionEvent],bCapturar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,actionPerformed/1[java.awt.event.ActionEvent],resultado,20
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,actionPerformed/1[java.awt.event.ActionEvent],bConsultarClave,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,actionPerformed/1[java.awt.event.ActionEvent],controlador,6
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,actionPerformed/1[java.awt.event.ActionEvent],bConsultarVentas,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,actionPerformed/1[java.awt.event.ActionEvent],bConsultarArchivoVentas,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,actionPerformed/1[java.awt.event.ActionEvent],bConsultar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,actionPerformed/1[java.awt.event.ActionEvent],bConsultarMarca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,actionPerformed/1[java.awt.event.ActionEvent],bVender,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,actionPerformed/1[java.awt.event.ActionEvent],datos,9
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,actionPerformed/1[java.awt.event.ActionEvent],bBorrar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,actionPerformed/1[java.awt.event.ActionEvent],tfClave,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,actionPerformed/1[java.awt.event.ActionEvent],tfExistencia,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,actionPerformed/1[java.awt.event.ActionEvent],bModificar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,actionPerformed/1[java.awt.event.ActionEvent],bCancelar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,actionPerformed/1[java.awt.event.ActionEvent],bConsultarArchivo,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,actionPerformed/1[java.awt.event.ActionEvent],bRealizarTransaccion,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,actionPerformed/1[java.awt.event.ActionEvent],bSalir,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,obtenerDatos/0,existencia,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,obtenerDatos/0,marca,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,obtenerDatos/0,clave,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,obtenerDatos/0,precio,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,obtenerDatos/0,datos,6
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,obtenerDatos/0,tfPrecio,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,obtenerDatos/0,tfClave,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,obtenerDatos/0,tfNombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,obtenerDatos/0,tfMarca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,obtenerDatos/0,tfExistencia,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,obtenerDatos/0,nombre,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,modificarNodo/0,lista,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,modificarNodo/0,datos,7
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,modificarNodo/0,resultado,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,borrarNodo/0,lista,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,borrarNodo/0,clave,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,borrarNodo/0,resultado,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,realizarVenta/0,lista,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,realizarVenta/0,resultado,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,realizarVenta/0,tfClave,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,realizarVenta/0,tfExistencia,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,print/1[java.lang.String],tfClave,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,print/1[java.lang.String],tfMarca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosIUG.java,ArticulosIUG,print/1[java.lang.String],taDatos,12
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,consultarNombre/1[java.lang.String],primero,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,consultarNombre/1[java.lang.String],actual,7
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,consultarNombre/1[java.lang.String],anterior,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,modificarNodo/1[java.lang.String],actual,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,crearNodoInicio/1[java.lang.String],primero,6
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,crearNodoInicio/1[java.lang.String],ultimo,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,crearNodoInicio/1[java.lang.String],actual,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,datosListaArchivo/0,primero,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,datosListaArchivo/0,actual,5
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,datosListaArchivo/0,archivoSalida,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,PersonaAD/0,archivoEntrada,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,vacia/0,primero,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,borrarNodo/0,actual,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,borrarNodo/0,primero,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,borrarNodo/0,ultimo,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,borrarNodo/0,anterior,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,consultarNodo/0,primero,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,consultarNodo/0,actual,5
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,crearNodo/1[java.lang.String],primero,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,crearNodo/1[java.lang.String],ultimo,5
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,crearNodo/1[java.lang.String],actual,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,consultarId/1[java.lang.String],primero,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,consultarId/1[java.lang.String],actual,7
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/PersonaAD.java,PersonaAD,consultarId/1[java.lang.String],anterior,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,crearNodo/1[java.lang.String],primero,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,crearNodo/1[java.lang.String],ultimo,5
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,crearNodo/1[java.lang.String],actual,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,consultarNodos/1[java.lang.String],primero,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,consultarNodos/1[java.lang.String],actual,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,consultarNodos/1[java.lang.String],actualVenta,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,consultarNodos/1[java.lang.String],primerVenta,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,consultarArchivo/1[java.lang.String],archivoEntrada,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,"consultarNodosAD/2[ArticulosDP,ArticulosDP]",primero,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,"consultarNodosAD/2[ArticulosDP,ArticulosDP]",actual,6
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,"datosListaArchivoAD/3[java.lang.String,ArticulosDP,ArticulosDP]",primero,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,"datosListaArchivoAD/3[java.lang.String,ArticulosDP,ArticulosDP]",actual,6
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,"datosListaArchivoAD/3[java.lang.String,ArticulosDP,ArticulosDP]",archivoSalida,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,borrarNodo/1[java.lang.String],actual,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,borrarNodo/1[java.lang.String],primero,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,borrarNodo/1[java.lang.String],ultimo,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,borrarNodo/1[java.lang.String],anterior,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,consultarClave/1[java.lang.String],primero,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,consultarClave/1[java.lang.String],actual,7
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,consultarClave/1[java.lang.String],anterior,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,vacia/0,primero,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,consultarMarca/1[java.lang.String],primero,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,consultarMarca/1[java.lang.String],actual,7
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,consultarMarca/1[java.lang.String],anterior,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,datosListaArchivo/1[java.lang.String],primero,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,datosListaArchivo/1[java.lang.String],actual,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,datosListaArchivo/1[java.lang.String],actualVenta,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,datosListaArchivo/1[java.lang.String],primerVenta,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,modificarNodo/1[java.lang.String],actual,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,ArticulosAD/0,archivoEntrada,8
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,"venderArticulos/2[int,int]",actual,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,crearNodoVentas/1[java.lang.String],actualVenta,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,crearNodoVentas/1[java.lang.String],primerVenta,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/PersonaLinkedList/ArticulosAD.java,ArticulosAD,crearNodoVentas/1[java.lang.String],ultimaVenta,5
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ExponencialGUI.java,ExponencialGUI,getPanel2/0,panel2,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ExponencialGUI.java,ExponencialGUI,mostrarExponencial/0,tfExponente,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ExponencialGUI.java,ExponencialGUI,mostrarExponencial/0,objeto,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ExponencialGUI.java,ExponencialGUI,mostrarExponencial/0,taDatos,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ExponencialGUI.java,ExponencialGUI,mostrarExponencial/0,tfBase,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ExponencialGUI.java,ExponencialGUI,actionPerformed/1[java.awt.event.ActionEvent],taDatos,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ExponencialGUI.java,ExponencialGUI,actionPerformed/1[java.awt.event.ActionEvent],bCalcular,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ExponencialGUI.java,ExponencialGUI,actionPerformed/1[java.awt.event.ActionEvent],bSalir,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ExponencialGUI.java,ExponencialGUI,ExponencialGUI/0,tfExponente,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ExponencialGUI.java,ExponencialGUI,ExponencialGUI/0,panel1,9
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ExponencialGUI.java,ExponencialGUI,ExponencialGUI/0,lExponente,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ExponencialGUI.java,ExponencialGUI,ExponencialGUI/0,panel2,5
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ExponencialGUI.java,ExponencialGUI,ExponencialGUI/0,taDatos,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ExponencialGUI.java,ExponencialGUI,ExponencialGUI/0,lBase,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ExponencialGUI.java,ExponencialGUI,ExponencialGUI/0,tfBase,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ExponencialGUI.java,ExponencialGUI,ExponencialGUI/0,bCalcular,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ExponencialGUI.java,ExponencialGUI,ExponencialGUI/0,bSalir,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/GraphicsPD.java,GraphicsPD,GraphicsPD/1[java.lang.String],figura,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/GraphicsPD.java,GraphicsPD,paintComponent/1[java.awt.Graphics],figura,7
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,BancoGUI/0,bApertura,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,BancoGUI/0,lCuenta,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,BancoGUI/0,tfCuenta,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,BancoGUI/0,panel1,16
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,BancoGUI/0,tfPrecio,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,BancoGUI/0,bconsultarTipo,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,BancoGUI/0,panel2,5
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,BancoGUI/0,lPrecio,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,BancoGUI/0,bConsultarNombre,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,BancoGUI/0,taDatos,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,BancoGUI/0,bConsultar,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,BancoGUI/0,tfTipo,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,BancoGUI/0,tfNombre,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,BancoGUI/0,lSaldo,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,BancoGUI/0,tfSaldo,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,BancoGUI/0,lTipo,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,BancoGUI/0,bConsultarCuenta,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,BancoGUI/0,lNombre,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,BancoGUI/0,bSalir,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,getPanel2/0,panel2,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,actionPerformed/1[java.awt.event.ActionEvent],bApertura,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,actionPerformed/1[java.awt.event.ActionEvent],tfTipo,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,actionPerformed/1[java.awt.event.ActionEvent],tfCuenta,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,actionPerformed/1[java.awt.event.ActionEvent],tfNombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,actionPerformed/1[java.awt.event.ActionEvent],bconsultarTipo,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,actionPerformed/1[java.awt.event.ActionEvent],banco,6
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,actionPerformed/1[java.awt.event.ActionEvent],bConsultarNombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,actionPerformed/1[java.awt.event.ActionEvent],bConsultarCuenta,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,actionPerformed/1[java.awt.event.ActionEvent],taDatos,14
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,actionPerformed/1[java.awt.event.ActionEvent],bConsultar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,actionPerformed/1[java.awt.event.ActionEvent],bSalir,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,mostrar/1[java.lang.String],tfTipo,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,mostrar/1[java.lang.String],tfCuenta,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,mostrar/1[java.lang.String],tfNombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,mostrar/1[java.lang.String],tfSaldo,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,obtenerDatos/0,tfTipo,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,obtenerDatos/0,tfCuenta,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,obtenerDatos/0,tfNombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,obtenerDatos/0,tfSaldo,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,clrScreen/0,tfTipo,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,clrScreen/0,tfCuenta,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,clrScreen/0,tfNombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoGUI.java,BancoGUI,clrScreen/0,tfSaldo,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloAD.java,ArticuloAD,consultarClave/1[java.lang.String],brArchivoEntrada,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloAD.java,ArticuloAD,"sobreescribirDatos/2[java.lang.String,java.lang.String]",brArchivoEntrada,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloAD.java,ArticuloAD,"sobreescribirDatos/2[java.lang.String,java.lang.String]",pwArchivoSalida,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloAD.java,ArticuloAD,consultar/0,brArchivoEntrada,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloAD.java,ArticuloAD,consultarNombre/1[java.lang.String],brArchivoEntrada,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloAD.java,ArticuloAD,capturar/1[java.lang.String],pwArchivoSalida,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloAD.java,ArticuloAD,consultarMarca/1[java.lang.String],brArchivoEntrada,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/GraphicsGUI.java,GraphicsGUI,actionPerformed/1[java.awt.event.ActionEvent],miEspiralCirculo,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/GraphicsGUI.java,GraphicsGUI,actionPerformed/1[java.awt.event.ActionEvent],miEspiralRectangulo,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/GraphicsGUI.java,GraphicsGUI,actionPerformed/1[java.awt.event.ActionEvent],miCubo,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/GraphicsGUI.java,GraphicsGUI,actionPerformed/1[java.awt.event.ActionEvent],miCirculo,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/GraphicsGUI.java,GraphicsGUI,actionPerformed/1[java.awt.event.ActionEvent],miSalir,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/GraphicsGUI.java,GraphicsGUI,actionPerformed/1[java.awt.event.ActionEvent],miCilindro,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/GraphicsGUI.java,GraphicsGUI,actionPerformed/1[java.awt.event.ActionEvent],miEspiralCubo,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/GraphicsGUI.java,GraphicsGUI,actionPerformed/1[java.awt.event.ActionEvent],miRectangulo,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/GraphicsGUI.java,GraphicsGUI,GraphicsGUI/0,miEspiralCirculo,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/GraphicsGUI.java,GraphicsGUI,GraphicsGUI/0,miEspiralRectangulo,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/GraphicsGUI.java,GraphicsGUI,GraphicsGUI/0,miCubo,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/GraphicsGUI.java,GraphicsGUI,GraphicsGUI/0,mFiguras,8
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/GraphicsGUI.java,GraphicsGUI,GraphicsGUI/0,mbFiguras,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/GraphicsGUI.java,GraphicsGUI,GraphicsGUI/0,miCirculo,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/GraphicsGUI.java,GraphicsGUI,GraphicsGUI/0,miCilindro,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/GraphicsGUI.java,GraphicsGUI,GraphicsGUI/0,miSalir,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/GraphicsGUI.java,GraphicsGUI,GraphicsGUI/0,miEspiralCubo,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/GraphicsGUI.java,GraphicsGUI,GraphicsGUI/0,miRectangulo,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/GraphicsGUI.java,GraphicsGUI,GraphicsGUI/0,mEspirales,5
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/GraphicsGUI.java,GraphicsGUI,crearFigura/1[java.lang.String],panel,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoAD.java,BancoAD,consultarCuenta/1[java.lang.String],brArchivoEntrada,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoAD.java,BancoAD,"sobreescribirDatos/2[java.lang.String,java.lang.String]",brArchivoEntrada,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoAD.java,BancoAD,"sobreescribirDatos/2[java.lang.String,java.lang.String]",pwArchivoSalida,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoAD.java,BancoAD,consultar/0,brArchivoEntrada,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoAD.java,BancoAD,consultarNombre/1[java.lang.String],brArchivoEntrada,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoAD.java,BancoAD,capturar/1[java.lang.String],pwArchivoSalida,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/BancoAD.java,BancoAD,consultarTipo/1[java.lang.String],brArchivoEntrada,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,Calculadora/0,panel1,5
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,Calculadora/0,bResta,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,Calculadora/0,panel2,19
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,Calculadora/0,b0,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,Calculadora/0,tfNumero,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,Calculadora/0,b1,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,Calculadora/0,b2,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,Calculadora/0,bIgual,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,Calculadora/0,bDivide,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,Calculadora/0,b3,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,Calculadora/0,bMultiplica,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,Calculadora/0,bFactorial,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,Calculadora/0,b4,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,Calculadora/0,b5,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,Calculadora/0,bSuma,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,Calculadora/0,b6,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,Calculadora/0,b7,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,Calculadora/0,bClear,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,Calculadora/0,b8,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,Calculadora/0,b9,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,factorial/0,str,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,factorial/0,op,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,factorial/0,n1,6
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,factorial/0,objeto,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,factorial/0,factor,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,factorial/0,cont,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,factorial/0,tfNumero,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],n1,14
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],n2,6
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],b0,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],b1,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],b2,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],bDivide,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],b3,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],bFactorial,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],b4,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],b5,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],b6,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],b7,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],b8,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],sim,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],bClear,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],b9,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],auxiliar,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],cont,8
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],factor,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],op,11
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],bResta,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],tfNumero,22
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],str,47
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],bIgual,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],bMultiplica,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/Calculadora.java,Calculadora,actionPerformed/1[java.awt.event.ActionEvent],bSuma,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,VariosGUI/0,bTabla,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,VariosGUI/0,bFactorial,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,VariosGUI/0,tfVariable,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,VariosGUI/0,panel1,9
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,VariosGUI/0,bSerie,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,VariosGUI/0,panel2,5
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,VariosGUI/0,lFactorial,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,VariosGUI/0,taDatos,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,VariosGUI/0,bSalir,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,getPanel2/0,panel2,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,getFactorial/0,tfVariable,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,getFactorial/0,factorial,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,getFactorial/0,taDatos,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,actionPerformed/1[java.awt.event.ActionEvent],bTabla,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,actionPerformed/1[java.awt.event.ActionEvent],bFactorial,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,actionPerformed/1[java.awt.event.ActionEvent],bSerie,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,actionPerformed/1[java.awt.event.ActionEvent],taDatos,6
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,actionPerformed/1[java.awt.event.ActionEvent],bSalir,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,getSerie/0,tfVariable,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,getSerie/0,factorial,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,getSerie/0,taDatos,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,getTabla/0,tfVariable,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,getTabla/0,factorial,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/VariosGUI.java,VariosGUI,getTabla/0,taDatos,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],miEspiralCirculo,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],miCalculadora,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],miEspiralRectangulo,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],ecuacion,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],grados,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],miCentigrados,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],miCirculo,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],miArchivos,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],exponencial,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],miCilindro,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],banco,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],miEspiralCubo,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],varios,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],miTabla,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],miCubo,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],miArticulos,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],miExponencial,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],miSerie,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],miEcuacion,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],articulo,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],panel,80
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],miRectangulo,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],miFactorial,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,actionPerformed/1[java.awt.event.ActionEvent],miFahrenheit,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,miEspiralCirculo,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,miEspiralRectangulo,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,mArchivos,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,mFiguras,7
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,miArchivos,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,miEspiralCubo,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,mCalculosVarios,5
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,miTabla,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,miCubo,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,miFiguras,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,miEcuacion,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,mGrados,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,miRectangulo,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,panel,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,mCalculos,7
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,miFahrenheit,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,miCalculadora,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,mbProyecto,5
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,miCentigrados,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,miCirculo,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,mExtra,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,miCilindro,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,miExtra,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,mEspirales,5
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,miArticulos,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,miExponencial,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,miSerie,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,miCalculos,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ProyectoGUI.java,ProyectoGUI,ProyectoGUI/0,miFactorial,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/EcuacionGUI.java,EcuacionGUI,getPanel2/0,panel2,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/EcuacionGUI.java,EcuacionGUI,ecuacion/0,tfCoeficienteC,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/EcuacionGUI.java,EcuacionGUI,ecuacion/0,tfCoeficienteB,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/EcuacionGUI.java,EcuacionGUI,ecuacion/0,objeto,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/EcuacionGUI.java,EcuacionGUI,ecuacion/0,tfCoeficienteA,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/EcuacionGUI.java,EcuacionGUI,ecuacion/0,taDatos,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/EcuacionGUI.java,EcuacionGUI,EcuacionGUI/0,tfCoeficienteC,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/EcuacionGUI.java,EcuacionGUI,EcuacionGUI/0,panel1,11
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/EcuacionGUI.java,EcuacionGUI,EcuacionGUI/0,tfCoeficienteB,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/EcuacionGUI.java,EcuacionGUI,EcuacionGUI/0,lCoefA,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/EcuacionGUI.java,EcuacionGUI,EcuacionGUI/0,panel2,5
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/EcuacionGUI.java,EcuacionGUI,EcuacionGUI/0,tfCoeficienteA,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/EcuacionGUI.java,EcuacionGUI,EcuacionGUI/0,taDatos,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/EcuacionGUI.java,EcuacionGUI,EcuacionGUI/0,bCalcular,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/EcuacionGUI.java,EcuacionGUI,EcuacionGUI/0,bSalir,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/EcuacionGUI.java,EcuacionGUI,actionPerformed/1[java.awt.event.ActionEvent],taDatos,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/EcuacionGUI.java,EcuacionGUI,actionPerformed/1[java.awt.event.ActionEvent],bCalcular,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/EcuacionGUI.java,EcuacionGUI,actionPerformed/1[java.awt.event.ActionEvent],bSalir,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,mostrar/1[java.lang.String],tfPrecio,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,mostrar/1[java.lang.String],tfClave,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,mostrar/1[java.lang.String],tfMarca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,mostrar/1[java.lang.String],tfNombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,mostrar/1[java.lang.String],tfCantidad,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,clrScreen/0,tfPrecio,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,clrScreen/0,tfClave,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,clrScreen/0,tfMarca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,clrScreen/0,tfNombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,clrScreen/0,tfCantidad,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,getPanel2/0,panel2,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,obtenerDatos/0,tfPrecio,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,obtenerDatos/0,tfClave,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,obtenerDatos/0,tfMarca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,obtenerDatos/0,tfNombre,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,obtenerDatos/0,tfCantidad,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,ArticuloGUI/0,bCapturar,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,ArticuloGUI/0,panel1,18
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,ArticuloGUI/0,tfPrecio,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,ArticuloGUI/0,lMarca,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,ArticuloGUI/0,tfMarca,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,ArticuloGUI/0,bConsultarClave,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,ArticuloGUI/0,panel2,5
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,ArticuloGUI/0,lPrecio,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,ArticuloGUI/0,bConsultarNombre,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,ArticuloGUI/0,tfCantidad,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,ArticuloGUI/0,taDatos,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,ArticuloGUI/0,bConsultar,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,ArticuloGUI/0,bConsultarMarca,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,ArticuloGUI/0,lClave,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,ArticuloGUI/0,tfClave,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,ArticuloGUI/0,tfNombre,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,ArticuloGUI/0,lCantidad,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,ArticuloGUI/0,lNombre,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,ArticuloGUI/0,bSalir,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,actionPerformed/1[java.awt.event.ActionEvent],bConsultarMarca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,actionPerformed/1[java.awt.event.ActionEvent],bCapturar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,actionPerformed/1[java.awt.event.ActionEvent],tfClave,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,actionPerformed/1[java.awt.event.ActionEvent],tfMarca,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,actionPerformed/1[java.awt.event.ActionEvent],bConsultarClave,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,actionPerformed/1[java.awt.event.ActionEvent],taDatos,12
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,actionPerformed/1[java.awt.event.ActionEvent],articulo,5
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,actionPerformed/1[java.awt.event.ActionEvent],bConsultar,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ArticuloGUI.java,ArticuloGUI,actionPerformed/1[java.awt.event.ActionEvent],bSalir,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ConversionGradosGUI.java,ConversionGradosGUI,getPanel2/0,panel2,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ConversionGradosGUI.java,ConversionGradosGUI,actionPerformed/1[java.awt.event.ActionEvent],bFahrenheit,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ConversionGradosGUI.java,ConversionGradosGUI,actionPerformed/1[java.awt.event.ActionEvent],sw,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ConversionGradosGUI.java,ConversionGradosGUI,actionPerformed/1[java.awt.event.ActionEvent],bCentigrados,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ConversionGradosGUI.java,ConversionGradosGUI,actionPerformed/1[java.awt.event.ActionEvent],taDatos,4
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ConversionGradosGUI.java,ConversionGradosGUI,actionPerformed/1[java.awt.event.ActionEvent],bSalir,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ConversionGradosGUI.java,ConversionGradosGUI,gradosCentigrados/0,tfGrados,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ConversionGradosGUI.java,ConversionGradosGUI,gradosCentigrados/0,sw,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ConversionGradosGUI.java,ConversionGradosGUI,gradosCentigrados/0,objeto,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ConversionGradosGUI.java,ConversionGradosGUI,gradosCentigrados/0,taDatos,1
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ConversionGradosGUI.java,ConversionGradosGUI,ConversionGradosGUI/0,bFahrenheit,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ConversionGradosGUI.java,ConversionGradosGUI,ConversionGradosGUI/0,tfGrados,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ConversionGradosGUI.java,ConversionGradosGUI,ConversionGradosGUI/0,panel1,8
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ConversionGradosGUI.java,ConversionGradosGUI,ConversionGradosGUI/0,panel2,5
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ConversionGradosGUI.java,ConversionGradosGUI,ConversionGradosGUI/0,bCentigrados,3
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ConversionGradosGUI.java,ConversionGradosGUI,ConversionGradosGUI/0,lDegrees,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ConversionGradosGUI.java,ConversionGradosGUI,ConversionGradosGUI/0,taDatos,2
+/home/jovyan/work/toolkit/../dataSets/linkedListsStudy/linked-lists/Object-Oriented Programming Project/ConversionGradosGUI.java,ConversionGradosGUI,ConversionGradosGUI/0,bSalir,3

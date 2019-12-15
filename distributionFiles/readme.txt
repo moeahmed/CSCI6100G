@@ -11,7 +11,8 @@ To install and run:
 1) Install Docker and build the Docker container (see i. below)
 2) Run the container with the provided script (see ii. below)
 3) Access the Jupyter notebook server at 0.0.0.0:8888 in a web browser
-4) Navigate to toolkit/ and run 'caseStudy.ipynb' or 'repeatStudies.ipynb'
+4) For original toolkit case studies, navigate to toolkit/ and run 'caseStudy.ipynb' or 'repeatStudies.ipynb'
+5) For toolkit extension case studies, navigate to toolkit/ and run 'okhttpStudy.ipynb' or 'mavenStudy.ipynb'
 
 
 
@@ -39,7 +40,8 @@ ii. runContainer.sh
 iii. datasets/
 
     Contains populated metrics databases for the 5
-    studied projects (git, Vim, OpenSSL, httpd, nginx).
+    studied C language projects (git, Vim, OpenSSL, httpd, nginx), and 
+    2 populated metrics databases for the Java language projects (okhttp, maven) studied.
 
     When running the case study notebooks, this directory will
     be populated with extra data from git repositories,
@@ -50,7 +52,8 @@ iv. toolkit/
     This contains the toolkit source code, and Jupyter
     notebooks for the case study. To repeat the case study,
     open 'caseStudy.ipynb' or 'repeatStudies.ipynb' in
-    Jupyter and run all the code cells.
+    Jupyter and run all the code cells. For toolkit extension case studies,
+    navigate to toolkit/ and run 'okhttpStudy.ipynb' or 'mavenStudy.ipynb'
 
 v. code-maat/
 
@@ -68,3 +71,10 @@ vi. cqmetrics/
 
     cqmetrics can be found on Github at:
     https://github.com/dspinellis/cqmetrics
+    
+vii. ck/
+
+    A precompiled copy of ck metrics is provided as well.
+
+    cqmetrics can be found on Github at:
+    https://github.com/mauricioaniche/ck.git

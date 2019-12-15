@@ -84,8 +84,8 @@ def gatherData(studyDirectory, repositoryURL, sourceFilesDirectory, filesToInspe
 	#changeMetrics['entity'] = changeMetrics['entity'].apply(lambda x: x.replace('/','_'))
 	changeMetrics['netchurn'] = changeMetrics['added'] - changeMetrics['deleted']
 	changeMetrics.drop('total-revs', axis=1, inplace=True)
-	print("changeMetrics:",changeMetrics)
-	print("codeMetrics:",codeMetrics)
+	#print("changeMetrics:",changeMetrics)
+	#print("codeMetrics:",codeMetrics)
 
 	allData = pd.DataFrame()
     

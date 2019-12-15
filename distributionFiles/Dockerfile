@@ -32,8 +32,3 @@ RUN /bin/bash -c conda activate python2
 RUN ipython kernel install --user
 RUN python2 -m pip install pydot
 
-# Install PMD Metrics package
-RUN cd $HOME
-RUN wget https://github.com/pmd/pmd/releases/download/pmd_releases%2F6.20.0/pmd-bin-6.20.0.zip
-RUN unzip pmd-bin-6.20.0.zip
-RUN alias pmd="$HOME/pmd-bin-6.20.0/bin/run.sh pmd"

@@ -1,1 +1,0 @@
-import gitLogInterface as gitlog

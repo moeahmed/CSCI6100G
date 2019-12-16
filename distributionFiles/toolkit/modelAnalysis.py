@@ -42,7 +42,7 @@ def analyseModel(model, featureNames, featuresTest, responseTest, scoreOnly):
 		fn = pd.Series(featureNames)
 		fin = pd.concat([fn, fi], axis=1)
 		fin.columns=['name','importance']
-		fin = fin[fin.importance != 0]
+		fin = fin[fin.importance >= 0.1899]
 		print fin.sort_values(by='importance',ascending=False)
 
 def timeSeriesCV(features, featureNames, response, numberOfFolds, model, scoreOnly):

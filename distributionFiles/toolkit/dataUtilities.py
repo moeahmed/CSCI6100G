@@ -32,7 +32,7 @@ def replaceWithOneHotEncoded(features, featureName):
 
 def addBinnedResponseCategory(data, responseVariable, binLabels):
 	import pandas as pd
-	binnedData, bins = pd.cut(data[responseVariable], len(binLabels), labels=False, retbins=True)
+	binnedData, bins = pd.cut(data[responseVariable].astype('int32'), len(binLabels), labels=False, retbins=True)
 
 	from sklearn import preprocessing as pp
 	lb = pp.LabelBinarizer()

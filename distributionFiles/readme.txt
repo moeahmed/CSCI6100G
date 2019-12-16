@@ -1,10 +1,9 @@
-Software Metrics Research Toolkit and Data distribution package
+Extending the Software Metrics Research Toolkit and Data distribution package
 
 To support the M.A.Sc. thesis "Toolkit for Automatic Collection and Predictive Modelling of Software Metrics"
 
 Maintained by: Tim Johnston (johnst3@mcmaster.ca)
-Updated 20 June 2016
-
+Extended by: Jenell Hogg and Mohammed Ahmed
 
 To install and run:
 
